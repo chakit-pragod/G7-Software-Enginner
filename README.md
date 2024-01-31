@@ -10,7 +10,7 @@ Group 7 Sec 4 **member**
 
 4. นายชาคริต ปรากฎ 643021316-6
 
-<img src = https://github.com/chakit-pragod/Group7_SE/blob/main/profile image/chakit.jpg  width="300" alt=รูปภาพสมาชิก><br/>
+<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/chakit.jpg  width="300" alt=รูปภาพสมาชิก><br/>
 
 5. นางสาวแพรวา โคตรพันธุ์กุล 643021332-8
 
