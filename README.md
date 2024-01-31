@@ -1,6 +1,6 @@
 # Lab9
 
-Group 7 ** member **
+Group 7 Sec 4 **member**
 
 1. นางสาวชญาดา วิชัยโย 643020602-0
 
