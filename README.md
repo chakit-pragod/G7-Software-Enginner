@@ -8,7 +8,7 @@ Group 7 Sec 4 **member**
 
 2. นายธนะชัย การธนะภักดี 643020612-7
 
-<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/...  width="300" alt=รูปภาพสมาชิก><br/>
+<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/Thanachai.jpg  width="300" alt=รูปภาพสมาชิก><br/>
 
 3. นายวงศกร โปตะเวช 643020640-2
 
