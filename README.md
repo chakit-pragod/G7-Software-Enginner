@@ -4,9 +4,15 @@ Group 7 Sec 4 **member**
 
 1. นางสาวชญาดา วิชัยโย 643020602-0
 
+<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/...  width="300" alt=รูปภาพสมาชิก><br/>
+
 2. นายธนะชัย การธนะภักดี 643020612-7
 
+<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/...  width="300" alt=รูปภาพสมาชิก><br/>
+
 3. นายวงศกร โปตะเวช 643020640-2
+
+<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/...  width="300" alt=รูปภาพสมาชิก><br/>
 
 4. นายชาคริต ปรากฎ 643021316-6
 
@@ -14,6 +20,7 @@ Group 7 Sec 4 **member**
 
 5. นางสาวแพรวา โคตรพันธุ์กุล 643021332-8
 
+<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/...  width="300" alt=รูปภาพสมาชิก><br/>
 
 # Agreement
 
