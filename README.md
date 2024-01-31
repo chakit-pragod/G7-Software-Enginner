@@ -12,7 +12,7 @@ Group 7 Sec 4 **member**
 
 3. นายวงศกร โปตะเวช 643020640-2
 
-<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/...  width="300" alt=รูปภาพสมาชิก><br/>
+<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/wongsakron.jpg.jpg  width="300" alt=รูปภาพสมาชิก><br/>
 
 4. นายชาคริต ปรากฎ 643021316-6
 
