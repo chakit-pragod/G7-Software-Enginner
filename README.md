@@ -20,7 +20,7 @@ Group 7 Sec 4 **member**
 
 5. นางสาวแพรวา โคตรพันธุ์กุล 643021332-8
 
-<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/...  width="300" alt=รูปภาพสมาชิก><br/>
+<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/praewa.jpg  width="300" alt=รูปภาพสมาชิก><br/>
 
 # Agreement
 
