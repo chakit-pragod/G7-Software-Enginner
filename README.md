@@ -4,7 +4,7 @@ Group 7 Sec 4 **member**
 
 1. นางสาวชญาดา วิชัยโย 643020602-0
 
-<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/...  width="300" alt=รูปภาพสมาชิก><br/>
+<img src = https://github.com/chakit-pragod/G7-Software-Enginner/blob/main/image/Chayada.png  width="300" alt=รูปภาพสมาชิก><br/>
 
 2. นายธนะชัย การธนะภักดี 643020612-7
 
